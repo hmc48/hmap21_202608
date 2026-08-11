@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_21_夜間対応型訪問介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアサポート岐阜25【夜間対応型訪問介護】岐阜県岐阜市徹明通4丁目4番地", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2190102588-00&ServiceCd=710&Type=search", "url2": "https://www.wakokai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 136.75457101404885, 35.417593685964995 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアサポート長良25【夜間対応型訪問介護】岐阜県岐阜市長良3丁目93", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2190104485-00&ServiceCd=710&Type=search", "url2": "wakokai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 136.782429400000012, 35.4527711 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアサポート瑞穂25【夜間対応型訪問介護】岐阜県瑞穂市別府1494番地1　岐阜県本巣郡北方町柱本3丁目90番地", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2190700019-00&ServiceCd=710&Type=search", "url2": "http://www.caresupport-kitagata25-night.jp" }, "geometry": { "type": "Point", "coordinates": [ 136.684871338137242, 35.395303812596389 ] } }
+]
+}

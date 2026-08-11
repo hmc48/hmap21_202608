@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_21_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "すずらん【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】岐阜県関市倉知148-1", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2170200923-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 136.908612799999986, 35.4763345 ] } },
+{ "type": "Feature", "properties": { "内容": "NPOぎふ村特定施設中津川【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】岐阜県中津川市茄子川中畑112-177", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2171501394-00&ServiceCd=&Type=search", "url2": "https://npo-gifumura.com" }, "geometry": { "type": "Point", "coordinates": [ 137.41324608193969, 35.480892143653946 ] } },
+{ "type": "Feature", "properties": { "内容": "NPОぎふ村特定施設【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】岐阜県恵那市武並町藤２４０３－５０", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2171700848-00&ServiceCd=&Type=search", "url2": "http://www.npo-gifumura.com" }, "geometry": { "type": "Point", "coordinates": [ 137.337134900000024, 35.4397038 ] } }
+]
+}

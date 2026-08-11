@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "geo_21_特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウス１番館【特定施設入居者生活介護（軽費老人ホーム）】岐阜県高山市新宮町1054－3ケアハウス１番館", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2172700573-00&ServiceCd=332&Type=search", "url2": "http://www.care21.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 137.212191100000041, 36.1314529 ] } },
+{ "type": "Feature", "properties": { "内容": "ベルツリー特定施設入居者生活介護事業所【特定施設入居者生活介護（軽費老人ホーム）】岐阜県多治見市脇之島町３丁目１６番地の１", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2171100411-00&ServiceCd=332&Type=search", "url2": "http://www.belltree.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 137.119214300000067, 35.3167815 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスビアンカ【特定施設入居者生活介護（軽費老人ホーム）】岐阜県多治見市上山町1-92-1", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2171100866-00&ServiceCd=332&Type=search", "url2": "http://bitokukai.com/" }, "geometry": { "type": "Point", "coordinates": [ 137.137250900000026, 35.3406132 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス寿和苑【特定施設入居者生活介護（軽費老人ホーム）】岐阜県関市武芸川町跡部1555番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2170900282-00&ServiceCd=332&Type=search", "url2": "http://www.juwaen.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 136.849678400000016, 35.5119808 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス　千寿の里　西小田【特定施設入居者生活介護（軽費老人ホーム）】岐阜県瑞浪市西小田町3-221", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2171600600-00&ServiceCd=332&Type=search", "url2": "http://www.senjyukai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 137.233477599999986, 35.3589038 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスドリーム陶都【特定施設入居者生活介護（軽費老人ホーム）】岐阜県土岐市下石町３０４番地８３９", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2171800333-00&ServiceCd=332&Type=search", "url2": "https://www.tohtokai.jp/" }, "geometry": { "type": "Point", "coordinates": [ 137.1732366, 35.3159174 ] } },
+{ "type": "Feature", "properties": { "内容": "オークヒルズ各務野【特定施設入居者生活介護（軽費老人ホーム）】岐阜県各務原市鵜沼古市場町2-9", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2170501353-00&ServiceCd=332&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 136.934525600000029, 35.3973934 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスこころ【特定施設入居者生活介護（軽費老人ホーム）】岐阜県揖斐郡池田町草深918-1", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2172600898-00&ServiceCd=332&Type=search", "url2": "http://www.kaigo-kokoro.com/" }, "geometry": { "type": "Point", "coordinates": [ 136.55666139285745, 35.448340977220042 ] } }
+]
+}

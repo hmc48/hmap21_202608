@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_21_地域密着型特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "地域密着型特定施設入居者生活介護　ジョイフル新那加【地域密着型特定施設入居者生活介護（軽費老人ホーム）】岐阜県各務原市那加新那加28-2", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2190500419-00&ServiceCd=362&Type=search", "url2": "https://sun-vision.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 136.832846099999983, 35.3998798 ] } }
+]
+}

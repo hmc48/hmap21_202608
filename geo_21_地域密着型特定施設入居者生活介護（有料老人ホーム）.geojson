@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_21_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム日野岐協苑【地域密着型特定施設入居者生活介護（有料老人ホーム）】岐阜県岐阜市日野北一丁目二番一号", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2190100186-00&ServiceCd=361&Type=search", "url2": "http://www.gikyoen.jp/" }, "geometry": { "type": "Point", "coordinates": [ 136.803024, 35.4395301 ] } },
+{ "type": "Feature", "properties": { "内容": "長森いきいき倶楽部アネックス介護付有料老人ホーム【地域密着型特定施設入居者生活介護（有料老人ホーム）】岐阜県岐阜市北一色１０丁目３８番３", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2190100251-00&ServiceCd=361&Type=search", "url2": "http://www.koukeikai.jp/" }, "geometry": { "type": "Point", "coordinates": [ 136.794687, 35.4090975 ] } },
+{ "type": "Feature", "properties": { "内容": "Dr．Orishigeビオメゾン【地域密着型特定施設入居者生活介護（有料老人ホーム）】岐阜県高山市昭和町２－８５－１", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2192700314-00&ServiceCd=361&Type=search", "url2": "www.ori-doujinkai.or.jp/index.html" }, "geometry": { "type": "Point", "coordinates": [ 137.24978, 36.14602450000001 ] } },
+{ "type": "Feature", "properties": { "内容": "うららびよりなるがの憩いの家【地域密着型特定施設入居者生活介護（有料老人ホーム）】岐阜県郡上市白鳥町那留1527番地69", "url": "https://www.kaigokensaku.mhlw.go.jp/21/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2191000104-00&ServiceCd=361&Type=search", "url2": "https://narugano.jimdofree.com/" }, "geometry": { "type": "Point", "coordinates": [ 136.882866712347436, 35.865522304032872 ] } }
+]
+}
